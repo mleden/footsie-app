@@ -1,4 +1,2 @@
-footsiedate
-===========
-
-Repository for all things related to footsiedate.com
+# footsiedate
+Design and implementation of footsie app and footsiedate.com website.
